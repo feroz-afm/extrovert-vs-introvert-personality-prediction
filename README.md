@@ -1,5 +1,4 @@
-# extrovert-vs-introvert-personality-prediction
-EDA &amp; drift analysis for Kaggle Playground Series S5E7: Predict Introvert vs Extrovert from daily behavior features.
+
 # Personality Predictor: Introvert or Extrovert
 
 This repository contains an exploratory data analysis (EDA) notebook based on the Kaggle Playground Series Season 5 Episode 7 dataset. The goal of the project is to understand behavioral patterns that distinguish introverted and extroverted personalities.
